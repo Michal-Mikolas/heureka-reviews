@@ -2,7 +2,7 @@
   "name": "Heureka Reviews",
   "description": "Adds user reviews into product list.",
   "homepage_url": "https://github.com/llagerlof/fresh-chrome-extension",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "manifest_version": 3,
   "action": {
     "default_title": "execute.js will run (watch the Chrome DevTools' console)"
