@@ -2,7 +2,7 @@
 (function() {
   $ = jQuery;
 
-  $('.c-product-list__item').each(function(){
+  $('.c-product-list__item.o-grid__item').each(function(){
     $product = $(this);
     $a = $product.find('a.c-product__image-link')
 
