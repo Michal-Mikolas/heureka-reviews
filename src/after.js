@@ -33,8 +33,8 @@
     if (!isListLoaded()) {
       setTimeout(refreshRatingManager, 1000);
 
-    } else if (isRatingLoaded()) {
-      return;
+    // } else if (isRatingLoaded()) {
+    //   return;
 
     } else {
       refreshRating();
