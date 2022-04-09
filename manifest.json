@@ -1,8 +1,8 @@
 {
   "name": "Heureka Reviews",
-  "description": "Adds user reviews into product list.",
+  "description": "Adds user reviews info, sorting and filtering into product list.",
   "homepage_url": "https://github.com/llagerlof/fresh-chrome-extension",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "manifest_version": 3,
   "action": {
     "default_title": "execute.js will run (watch the Chrome DevTools' console)"

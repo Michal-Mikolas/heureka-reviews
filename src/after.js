@@ -102,11 +102,11 @@
         <span>Nejvíce hvězdiček</span>\
       </a>\
     </li>\
-    <li class="c-subtabs__item">\
+    <!-- <li class="c-subtabs__item">\
       <a rel="nofollow" class="c-subtabs__link sort-by" data-sort-by="reviews-amount" href="#">\
         <span>Největší počet hodnocení</span>\
       </a>\
-    </li>\
+    </li> -->\
     <li class="c-subtabs__item">\
       <a rel="nofollow" class="c-subtabs__link sort-by" data-sort-by="shops" href="#">\
         <span>Nejvíce obchodů</span>\
